@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "name": "Till System",
+      "subcategories": [
+        { "name": "K360",  "docs": [] },
+        { "name": "V-250", "docs": [] },
+        { "name": "Dojo",  "docs": [] }
+      ]
+    },
+    {
+      "name": "Door Systems",
+      "subcategories": [
+        { "name": "Club Key", "docs": [] },
+        { "name": "Paxton",   "docs": [] }
+      ]
+    },
+    { "name": "Touch Office",    "docs": [] },
+    { "name": "Club Order",      "docs": [] },
+    { "name": "Club Hub",        "docs": [] },
+    { "name": "QR Readers",      "docs": [] },
+    { "name": "PS Application",  "docs": [] },
+    { "name": "Wiring Diagrams", "docs": [] }
+  ]
+}
