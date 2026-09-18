@@ -16,7 +16,17 @@
       ]
     },
     { "name": "Touch Office",    "docs": [
-        { "name": "Club Control Customer Welcome Pack", "url": "https://drive.google.com/file/d/1FG31_FLutAKz6KaY8pqXaVWIIXaRlptd/preview" }
+        { "name": "Club Control Customer Welcome Pack", "url": "https://drive.google.com/file/d/1FG31_FLutAKz6KaY8pqXaVWIIXaRlptd/preview" },
+        { "name": "Balancing Tills",           "url": "https://drive.google.com/file/d/1w_LoZpshkvZ0c8xcXoZg5i_ou3-b17ws/preview" },
+        { "name": "Net & Gross",               "url": "https://drive.google.com/file/d/1mOtXDCVK46fGUCrI5P_6SQsPpALFNbrK/preview" },
+        { "name": "Top Ups and Spending",      "url": "https://drive.google.com/file/d/1RkcUOtJks_Uj8u_eAPqR0MvytXyJqtg1/preview" },
+        { "name": "Not Enough Credit On Card", "url": "https://drive.google.com/file/d/1dSIjnBjhV2NVndvWHn-tvREzHE7wGioq/preview" },
+        { "name": "Splitting Payments",        "url": "https://drive.google.com/file/d/1AXKT-BjRSAOVN9qExHOS7XaPLJD6Ln1g/preview" },
+        { "name": "Processing Memberships",    "url": "https://drive.google.com/file/d/1KlVgoHHND1HqzX4xQSeFje3dRkBP9dxa/preview" },
+        { "name": "Creating List PLU",         "url": "https://drive.google.com/file/d/1YbF1jmVSV1apyw1miy--v_7oP4G6WVSS/preview" },
+        { "name": "Make A Status Key List PLU","url": "https://drive.google.com/file/d/1CEkiKhO8o7gUznsrrkqumaNi6rAsz2L1/preview" },
+        { "name": "Creating Tax Level",        "url": "https://drive.google.com/file/d/1jtE8mHRB5Qiq2y-AHY3SfvmrRQ0eH8Q5/preview" },
+        { "name": "Mix & Match 2",             "url": "https://drive.google.com/file/d/1RQx0aXp7dXlrpy8HTG0RQ8GD9n2JDxfX/preview" }
     ]},
     { "name": "Club Order",      "docs": [] },
     { "name": "Club Hub",        "docs": [] },
