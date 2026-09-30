@@ -3,8 +3,15 @@
     {
       "name": "Till System",
       "subcategories": [
-        { "name": "ICRTouch", "docs": [] },
-        { "name": "Dojo",     "docs": [] }
+        { "name": "ICRTouch", "docs": [
+            { "name": "Cashing Up Tills",                   "url": "https://drive.google.com/file/d/1KUd3Osh6SpqxZerc2LS75EBtqeCzaaz1/preview" },
+            { "name": "Split Payments",                     "url": "https://drive.google.com/file/d/1qMQkIa-5tr4eT6b1dWFUbiaMd_E-dJxw/preview" },
+            { "name": "Understanding Net & Gross Sales",    "url": "https://drive.google.com/file/d/1xIf9pIwU-pBUxTrFXPY8UxcJuoiFE4rf/preview" },
+            { "name": "Membership Renewals On The Till",    "url": "https://drive.google.com/file/d/1INVyvBaOBgvfftXfrp7M9zIQUoNchTxR/preview" },
+            { "name": "Topping Up Credit and Using Credit", "url": "https://drive.google.com/file/d/1LBcqF6omAVHp1d1zT1ZOhZwMZKeX5yBJ/preview" },
+            { "name": "Not Enough Credit On Members Card",  "url": "https://drive.google.com/file/d/1-DA0_qZvvN1L-Aqf-IRhfBW3zXF2qMxl/preview" }
+        ]},
+        { "name": "Dojo", "docs": [] }
       ]
     },
     {
@@ -14,18 +21,12 @@
         { "name": "Paxton",   "docs": [] }
       ]
     },
-    { "name": "Touch Office",    "docs": [
-        { "name": "Club Control Customer Welcome Pack", "url": "https://drive.google.com/file/d/1FG31_FLutAKz6KaY8pqXaVWIIXaRlptd/preview" },
-        { "name": "Balancing Tills",          "url": "https://drive.google.com/file/d/1w_LoZpshkvZ0c8xcXoZg5i_ou3-b17ws/preview" },
-        { "name": "Net & Gross",              "url": "https://drive.google.com/file/d/1mOtXDCVK46fGUCrI5P_6SQsPpALFNbrK/preview" },
-        { "name": "Top Ups and Spending",     "url": "https://drive.google.com/file/d/1RkcUOtJks_Uj8u_eAPqR0MvytXyJqtg1/preview" },
-        { "name": "Not Enough Credit On Card","url": "https://drive.google.com/file/d/1dSIjnBjhV2NVndvWHn-tvREzHE7wGioq/preview" },
-        { "name": "Splitting Payments",       "url": "https://drive.google.com/file/d/1AXKT-BjRSAOVN9qExHOS7XaPLJD6Ln1g/preview" },
-        { "name": "Processing Memberships",   "url": "https://drive.google.com/file/d/1KlVgoHHND1HqzX4xQSeFje3dRkBP9dxa/preview" },
-        { "name": "Creating List PLU",        "url": "https://drive.google.com/file/d/1YbF1jmVSV1apyw1miy--v_7oP4G6WVSS/preview" },
-        { "name": "Make A Status Key List PLU","url": "https://drive.google.com/file/d/1CEkiKhO8o7gUznsrrkqumaNi6rAsz2L1/preview" },
-        { "name": "Creating Tax Level",       "url": "https://drive.google.com/file/d/1jtE8mHRB5Qiq2y-AHY3SfvmrRQ0eH8Q5/preview" },
-        { "name": "Mix & Match 2",            "url": "https://drive.google.com/file/d/1RQx0aXp7dXlrpy8HTG0RQ8GD9n2JDxfX/preview" }
+    { "name": "Touch Office", "docs": [
+        { "name": "Club Control Customer Welcome Booklet",  "url": "https://drive.google.com/file/d/1FG31_FLutAKz6KaY8pqXaVWIIXaRlptd/preview" },
+        { "name": "Create New Tax Level",                   "url": "https://drive.google.com/file/d/1MZ6wearK0e5d-1vjMkgSebK2QaONqWQv/preview" },
+        { "name": "Creating A List PLU",                    "url": "https://drive.google.com/file/d/1RVlLgU39MZNSrgcKPNNxiadVKrOg4_7c/preview" },
+        { "name": "Making A Status Key Into The List PLU",  "url": "https://drive.google.com/file/d/1TzE17S5OVpH2uKj-GXraaO6qXRwb5cLG/preview" },
+        { "name": "Creating A Mix & Match 2",               "url": "https://drive.google.com/file/d/1BRKJenI1qQTBIc_pfTNg8sbiZoYweY20/preview" }
     ]},
     { "name": "Club Order",      "docs": [] },
     { "name": "Club Hub",        "docs": [] },
