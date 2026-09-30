@@ -3,9 +3,8 @@
     {
       "name": "Till System",
       "subcategories": [
-        { "name": "K360",  "docs": [] },
-        { "name": "V-250", "docs": [] },
-        { "name": "Dojo",  "docs": [] }
+        { "name": "ICRTouch", "docs": [] },
+        { "name": "Dojo",     "docs": [] }
       ]
     },
     {
